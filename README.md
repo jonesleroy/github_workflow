@@ -1,3 +1,7 @@
 # github_workflow
 
-All that you change, changes you
+There nothing permanent, except change. Jodson
+
+=======
+To improve is to change.
+
